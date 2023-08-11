@@ -32,6 +32,7 @@ on:
 
     branches:
       - 'dev'
+      - 'feature/CPLP-2650-keycloak-seeding'
   workflow_dispatch:
 
 env:
